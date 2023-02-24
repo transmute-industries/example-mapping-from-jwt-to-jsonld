@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "shove": "git add -A; git commit -m ':rainbow::rocket:'; git push origin main"
   },
   "repository": {
     "type": "git",
