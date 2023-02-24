@@ -1,0 +1,25 @@
+{
+  "name": "example-mapping-from-jwt-to-jsonld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transmute-industries/example-mapping-from-jwt-to-jsonld.git"
+  },
+  "author": "Orie Steele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transmute-industries/example-mapping-from-jwt-to-jsonld/issues"
+  },
+  "homepage": "https://github.com/transmute-industries/example-mapping-from-jwt-to-jsonld#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

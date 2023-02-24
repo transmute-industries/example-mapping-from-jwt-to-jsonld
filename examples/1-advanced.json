@@ -1,0 +1,10 @@
+{ 
+  "jti": "urn:uuid:123", 
+  "iss": "did:example:123", 
+  "sub": "did:example:456",
+  "nbf": 1300819380, 
+  "exp": 1300819380, 
+  "https://schema.org/name": "XML Signature Syntax and Processing Version 1.1",
+  "https://schema.org/documentation": "https://www.w3.org/TR/xmldsig-core1",
+  "displayName": "🔥"
+}
